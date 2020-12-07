@@ -1,0 +1,16 @@
+@import url("normalize.css");
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/* 获取根元素html */
+:root {
+	/* 定义变量 */
+	--color-text: #666;
+	--color-height-text: #ff5777;
+	--color-tint: #ff8198;
+	--color-background: #fff;
+	--font-size: 14px;
+	--line-height: 1.5;
+}
