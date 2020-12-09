@@ -1,6 +1,5 @@
 <template>
   <div id="nav">
-    
     <tab-bar-show></tab-bar-show>
   </div>
 </template>
